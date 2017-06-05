@@ -153,7 +153,7 @@ X.Y.Z Version
     `PATCH` version -- when you make backwards-compatible bug fixes.
 
 [status-image]: https://secure.travis-ci.org/lstn/django-ipware.svg?branch=master
-[status-link]: https://travis-ci.org/lstn/django-ipware.svg?branch=master
+[status-link]: https://travis-ci.org/lstn/django-ipware?branch=master
 
 [version-image]: https://img.shields.io/pypi/v/django-ipware.svg
 [version-link]: https://pypi.python.org/pypi/django-ipware
